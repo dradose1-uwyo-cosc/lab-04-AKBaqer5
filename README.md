@@ -1,10 +1,10 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [ABBAS BAQER]
+## [Assignment #4]
+## [Submission date: 09/30/2024]
 ## Worked with/sources 
-* example
-* example
-* example
+* MAHHAMED
+* EUKWANA
+* 
 * example
 ## Project Quirks/ Things that don't work
 * example
